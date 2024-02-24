@@ -1,0 +1,55 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# NetBeans files
+nbproject/
+build/
+
+# Database
+*.db
+*.sqlite
+
+# Tomcat
+/target/
+*/target/
+*.war
+*.ear
+*.jar
+*.class
+*.properties
+*.xml
+*.txt
+*.tar.gz
+*.tar
+*.zip
+*.bak
+*.war.orig
+*.war.bak
+*.ear.orig
+*.ear.bak
+*/work/
+*/work/Catalina/
+*/work/Catalina/localhost/
+*/work/Catalina/localhost/_/
+*/tmp/
+*/temp/
+
+
+.metadata/
